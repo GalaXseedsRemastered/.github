@@ -9,4 +9,5 @@ Sitekick Remastered is in no way affiliated with Firma Studios, and/or Corus Ent
 
 ## Contact Us
 Our homepage is https://galaxseedsremastered.com/
+
 Our Discord can be joined from http://discord.galaxseedsremastered.com/
